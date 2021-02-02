@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my Open Classroom projects site.
+
+In here you'll find access to my finished and published projects for Web Developer course.
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/AGPA-88/AGPA-88.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
