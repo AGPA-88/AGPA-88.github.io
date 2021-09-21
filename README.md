@@ -36,3 +36,11 @@ In here you'll find access to my finished and published projects for Web Develop
 [GoMikeDesigns Web Page](https://agpa-88.github.io/OC_P5_AA/)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### Project 6 - Hot Takes
+
+[GitHub Repo](https://github.com/AGPA-88/OC_P6_AA)
+
+[Hot Takes Web Page](https://agpa-88.github.io/OC_P6_AA/)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
