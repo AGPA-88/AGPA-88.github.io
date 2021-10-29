@@ -48,6 +48,4 @@ In here you'll find access to my finished and published projects for Web Develop
 
 [GitHub Repo](https://github.com/AGPA-88/OC_P7_AA)
 
-[Groupomania Social Network](http://127.0.0.1:8080/)
-
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
